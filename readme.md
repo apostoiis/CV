@@ -5,9 +5,9 @@ Makers Academy graduate seeking employment as Junior Developer in a great compan
 Recent projects
 -------------
 
-| [Angry Kitty] | [Pizza Poser] | [Chitter] |
+| [Angry Kitty] | [Unstagram] | [Chitter] |
 |:--------------- |:-------- |:--------- |
-| Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting pictures of Pizzas | Basic Sinatra Twitter clone, frontend developed without using Bootstrap. |
+| Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting with tags and geolocation | Basic Sinatra Twitter clone, frontend developed without using Bootstrap. |
 
 
 ###About me
