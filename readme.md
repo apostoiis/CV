@@ -56,7 +56,7 @@ Education
   - Focussed on Pair Programming, Test Driven Development and Ruby
   - Final project: [Angry Kitty] - Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.
 
-### [Alexander Technological Department of Automation Engineering], Thessaloniki
+### [Automation Engineering], Alexander Technological Institute of Thessaloniki
 **Bachelor's degree, Automation Engineer Technology/Technician (expecting to graduate)**
 
  Field of studies:
@@ -110,7 +110,7 @@ Contact me
 
   [Makers Academy]:http://www.makersacademy.com
 
-  [Alexander Technological Department of Automation Engineering]:https://www.autom.teithe.gr/en/index.php
+  [Automation Engineering]:https://www.autom.teithe.gr/en/index.php
   [appostoliis@gmail.com]: mailto:appostoliis@gmail.com
   [GitHub]:https://github.com/apostoiis
   [LinkedIn]:http://uk.linkedin.com/in/apostoiis
