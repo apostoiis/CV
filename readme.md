@@ -57,7 +57,15 @@ Education
 ### Alexander Technological Department of Automation Engineering
 **Bachelor's degree, Automation Engineer Technology/Technician (expecting to graduate)**
 
- Field of studies: Automation, Control Systems and Systems Engineering, Mandatory with thesis presentation, Mandatory, 6 months in industry during the last semester of studies, Mathematics, Physics, Control Systems, Computing Programming, Hydraulic and Pneumatic Control Systems, Robotics & Virtual Reality, CAD-CAM-CAE, Microcontrollers.
+ Field of studies:
+  - Automation
+  - Control Systems and Systems Engineering
+  - Mandatory with thesis presentation
+  - 6 months in industry during the last semester of studies
+  - Mathematics, Physics, Control Systems, Computing Programming, Hydraulic and Pneumatic Control Systems
+  - Robotics & Virtual Reality
+  - CAD-CAM-CAE
+  - Microcontrollers (8051)
 
 Experience
 ----------
