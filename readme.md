@@ -1,6 +1,6 @@
 #Apostolis Taxidaridis
 
-Makers Academy graduate seeking employment as Junior Developer in a great company to continue developing and extending his skills.
+I'm a junior web developer in London. I love both design and development. I believe beautiful code comes with beautiful interfaces.
 
 Recent projects
 -------------
@@ -102,7 +102,7 @@ Contact me
 - [LinkedIn]
 - [Github]
 
-  [Unstagram]:https://github.com/apostoiis/Unstagram
+  [Unstagram]:https://github.com/apostoiis/instagram-like
   [Chitter]:https://github.com/apostoiis/Chitter
   [Angry Kitty]:https://github.com/willhall88/Angry-Kitty
 
