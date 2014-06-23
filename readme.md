@@ -86,7 +86,6 @@ Interests
 
 - Code Katas
 - UX Design
--
 - Running
 - Movies
 - Djing
