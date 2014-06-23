@@ -32,8 +32,8 @@ I´m a fast learning and enthusiastic guy who strongly believes in the power of 
   - Heroku
   - JavaScript, jQuery, AJAX, Websockets
   - HTML5, CSS3, Bootstrap
-  - Precompiled languages like CoffeeScript, HAML, SASS
-  - APIs including Twilio, Stripe, Mailgun, Sendgrid, Google Maps, Traffic for London
+  - Familiar with CoffeeScript, HAML, SASS, Jasmine
+  - APIs: Twilio, Stripe, Mailgun, Google Maps
   - Agile methodologies
 
 #### Designing
