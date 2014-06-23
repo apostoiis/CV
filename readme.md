@@ -31,8 +31,10 @@ I´m a fast learning and enthusiastic guy who strongly believes in the power of 
   - Git
   - Heroku
   - JavaScript, jQuery, AJAX, Websockets
-  - HTML5, CSS3, Bootstrap
-  - Familiar with CoffeeScript, HAML, SASS, Jasmine
+  - HTML5, CSS3
+  - Twitter Bootstrap
+  - Compass, SASS
+  - Familiar with CoffeeScript, HAML, Jasmine
   - APIs: Twilio, Stripe, Mailgun, Google Maps
   - Agile methodologies
 
