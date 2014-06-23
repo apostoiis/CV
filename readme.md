@@ -84,11 +84,13 @@ Experience
 Interests
 ---------
 
-- Code readability
-- Agile practices
-- Lean startups
+- Code Katas
+- UX Design
+-
+- Running
+- Movies
 - Djing
-- Football, tennis, crossfit
+- Football, tennis, ping pong
 
 
 Contact me
@@ -101,13 +103,13 @@ Contact me
 - [LinkedIn]
 - [Github]
 
-  [Unstagram]:https://github.com/NicoSa/Pizza-Poser
-  [Chitter]:https://github.com/NicoSa/Chitter
+  [Unstagram]:https://github.com/apostoiis/Unstagram
+  [Chitter]:https://github.com/apostoiis/Chitter
   [Angry Kitty]:https://github.com/willhall88/Angry-Kitty
 
   [Makers Academy]:http://www.makersacademy.com
 
-  [appostoliis@gmail.com]: mailto:nico@nicosaueressig
+  [appostoliis@gmail.com]: mailto:appostoliis@gmail.com
   [GitHub]:https://github.com/apostoiis
   [LinkedIn]:http://uk.linkedin.com/in/apostoiis
   [Twitter]:http://twitter.com/apostoiis
