@@ -1,6 +1,6 @@
 #Apostolis Taxidaridis
 
-I'm a junior web developer in London. I love both design and development. I believe beautiful code comes with beautiful interfaces.
+I'm a junior web developer in London. I love both design and development and I believe that beautiful code is hidden under beautiful interfaces.
 
 Recent projects
 -------------
@@ -12,7 +12,7 @@ Recent projects
 
 ###About me
 
-I´m a fast learning and enthusiastic guy who strongly believes in the power of tech. After a few months of Hello, World applications on the side of working as a self-employed Audio Engineer for the last years, I decided to get serious about programming and accelerate my learning-process by joining Makers Academy in London.
+I'm 25-year-old guy, enthusiastic about the web and how computers work in general.
 
 
 ### Skills
