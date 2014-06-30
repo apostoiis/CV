@@ -38,14 +38,14 @@ Recent projects
 | HTML5, CSS3, SASS                  | ![](Untitled-2.png)         |
 
 
-| Frameworks & APIs              | Tools         |
-| :----------------------------- | :------------ |
-| Sinatra                        | DVCS, Git     |
-| Rails 4                        | Heroku        |
-| Twilio                         | PostgresSQL   |
-| Stripe                         | Compass       |
-| Mailgun                        |               |
-| Google Maps                    |               |
+| Frameworks & APIs                  | Tools         |
+| :--------------------------------- | :------------ |
+| Sinatra                            | DVCS, Git     |
+| Rails 4                            | Heroku        |
+| Twilio                             | PostgresSQL   |
+| Stripe                             | Compass       |
+| Mailgun                            |               |
+| Google Maps                        |               |
 
 
 
