@@ -38,23 +38,14 @@ Recent projects
 | HTML5, CSS3, SASS                  | ![](Untitled-2.png)         |
 
 
-| Frameworks & APIs                  | Tools         |
-| :--------------------------------- | :------------ |
-| Sinatra                            | DVCS, Git     |
-| Rails 4                            | Heroku        |
-| Twilio                             | PostgresSQL   |
-| Stripe                             | Compass       |
-| Mailgun                            |               |
-| Google Maps                        |               |
-
-
-
-#### Designing
-
-  - Photoshop
-  - Illustrator
-  - Fireworks
-
+| Frameworks & APIs                  | Tools         | Design Tools    |
+| :--------------------------------- | :------------ | :-----------    |
+| Sinatra                            | DVCS, Git     | Adode Photoshop |
+| Rails 4                            | Heroku        | Adobe Fireworks |
+| Twilio                             | PostgresSQL   |                 |
+| Stripe                             | Compass       |                 |
+| Mailgun                            |               |                 |
+| Google Maps                        |               |                 |
 
 Education
 ----------
