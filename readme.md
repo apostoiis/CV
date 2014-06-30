@@ -22,10 +22,7 @@ Recent projects
 | Familiar with JavaScript, Jasmine  | Twitter Bootstrap           |               |
 | CoffeeScript                       | Mailgun                     |               |
 | SQL                                | Google Maps                 |               |
-| HTML5, CSS3                        |                             |               |
-
-
-![alt text][Untitled-2.png]
+| HTML5, CSS3                        | ![](Untitled-2.png)         |               |
 
 #### Designing
 
