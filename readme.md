@@ -12,7 +12,7 @@ Recent projects
 ### Skills
 ----------
 #### Coding
-
+<!--
 | Languages & Practises              | Frameworks & APIs           | Tools         |
 | :--------------------------------- | :-------------------------- | :------------ |
 | Ruby                               | Sinatra                     | DVCS, Git     |
@@ -23,6 +23,21 @@ Recent projects
 | CoffeeScript                       | Mailgun                     |               |
 | SQL                                | Google Maps                 |               |
 | HTML5, CSS3                        | ![](Untitled-2.png)         |               |
+ -->
+
+
+| Languages & Practises              | Improving                   | Frameworks & APIs              | Tools         |
+| :--------------------------------- | :-------------------------- | :----------------------------- | :------------ |
+| Ruby                               | ![](Untitled-2.png)         | Sinatra                        | DVCS, Git     |
+| Object Oriented Programming        | ![](Untitled-2.png)         | Rails 4                        | Heroku        |
+| TDD, BDD                           | ![](Untitled-2.png)         | Twilio                         | PostgresSQL   |
+| RSpec, Cucumber, Capybara          | ![](Untitled-2.png)         | Stripe                         | SASS, Compass |
+| Familiar with JavaScript, Jasmine  | ![](Untitled-2.png)         | Mailgun                        |               |
+| CoffeeScript                       | ![](Untitled-2.png)         | Google Maps                    |               |
+| SQL                                | ![](Untitled-2.png)         |                                |               |
+| HTML5, CSS3                        | ![](Untitled-2.png)         |                                |               |
+
+
 
 #### Designing
 
