@@ -79,11 +79,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam in necessitatibu
 
 | Interests & Hobbies   | Contact me               |
 | :-------------------- | :----------------------- |
-| Code Katas            | 07564607031              |
-| Meetups               | [appostoliis@gmail.com]  |
-| UX Design             | [Twitter]                |
-| Running               | [LinkedIn]               |
-| Movies                | [Github]                 |
+| Code Katas            | 07564607031, +306974660574    |
+| Code Readability      | [appostoliis@gmail.com]  |
+| Meetups               | [Twitter]                |
+| UX Design             | [LinkedIn]               |
+| Running               | [Github]                 |
+| Movies                |                          |
 | Djing                 |                          |
 | Football, tennis      |                          |
 
