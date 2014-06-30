@@ -64,7 +64,6 @@ Education
  Field of studies:
   - Automation
   - Control Systems and Systems Engineering
-  - Mandatory with thesis presentation
   - 6 months in industry during the last semester of studies
   - Mathematics, Physics, Control Systems, Computing Programming, Hydraulic and Pneumatic Control Systems
   - Robotics & Virtual Reality
@@ -74,21 +73,24 @@ Education
 Experience
 ----------
 
-### Freelance Web Designer
-**2010&mdash;2012**
+### Freelance Web Designer (2010 - 2012)
 
-  - designcrowd.com
+Some of my latest works
 
-### Intern in Milo Creative (6 months)
-**2012&mdash;2013**
+  - [Henri Le Worm]
+  - [thefriend.org]
+  - [jointlyapp.com]
+  - [cinemajam.com]
 
-### Junior Developer in Milo Creative
-**2012&mdash;2014**
+### Junior Developer in Milo Creative (2012 - 2014)
 
-Interests
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam in necessitatibus laborum omnis similique sint assumenda explicabo voluptatem, accusantium mollitia quia ratione quod officia doloribus asperiores, hic corporis, quis nobis! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas eos officia officiis illum dolore dolorum rem, dolores magni nesciunt, nostrum cupiditate ratione, non pariatur esse cumque. Esse quos, consectetur a?
+
+Interests & Hobbies
 ---------
 
 - Code Katas
+- Meetups
 - UX Design
 - Running
 - Movies
@@ -106,16 +108,20 @@ Contact me
 - [LinkedIn]
 - [Github]
 
-  [Unstagram]:https://github.com/apostoiis/unstagram
-  [Sudoku]:https://github.com/apostoiis/Sudoku-Web-Version
-  [Angry Kitty]:https://github.com/willhall88/Angry-Kitty
 
-  [Makers Academy]:http://www.makersacademy.com
+[Unstagram]:https://github.com/apostoiis/unstagram
+[Sudoku]:https://github.com/apostoiis/Sudoku-Web-Version
+[Angry Kitty]:https://github.com/willhall88/Angry-Kitty
 
-  [Automation Engineering]:https://www.autom.teithe.gr/en/index.php
-  [appostoliis@gmail.com]: mailto:appostoliis@gmail.com
-  [GitHub]:https://github.com/apostoiis
-  [LinkedIn]:http://uk.linkedin.com/in/apostoiis
-  [Twitter]:http://twitter.com/apostoiis
-  [Blog]:http://medium.com/@apostoiis
-  [Repositories on Github]:https://github.com/apostoiis?tab=repositories
+[Makers Academy]:http://www.makersacademy.com
+
+[Automation Engineering]:https://www.autom.teithe.gr/en/index.php
+[appostoliis@gmail.com]: mailto:appostoliis@gmail.com
+[GitHub]:https://github.com/apostoiis
+[LinkedIn]:http://uk.linkedin.com/in/apostoiis
+[Twitter]:http://twitter.com/apostoiis
+[Blog]:http://medium.com/@apostoiis
+[Repositories on Github]:https://github.com/apostoiis?tab=repositories
+[Henri Le Worm]:http://www.henrileworm.com
+[jointlyapp.com]:https://www.jointlyapp.com/
+[cinemajam.com]:http://www.cinemajam.com
