@@ -7,7 +7,7 @@ Recent projects
 
 | [Angry Kitty] | [Unstagram] | [Sudoku] |
 |:--------------- |:-------- |:--------- |
-| Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting with tags and geolocation | Basic Sudoku solver, built in Sinatra. |
+| Test-driven RoR app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting with tags and geolocation | Basic Sudoku solver, built in Sinatra library. |
 
 ### Skills
 ----------
@@ -26,16 +26,26 @@ Recent projects
  -->
 
 
-| Languages & Practises              | Improving                   | Frameworks & APIs              | Tools         |
-| :--------------------------------- | :-------------------------- | :----------------------------- | :------------ |
-| Ruby                               | ![](Untitled-2.png)         | Sinatra                        | DVCS, Git     |
-| Object Oriented Programming        | ![](Untitled-2.png)         | Rails 4                        | Heroku        |
-| TDD, BDD                           | ![](Untitled-2.png)         | Twilio                         | PostgresSQL   |
-| RSpec, Cucumber, Capybara          | ![](Untitled-2.png)         | Stripe                         | SASS, Compass |
-| Familiar with JavaScript, Jasmine  | ![](Untitled-2.png)         | Mailgun                        |               |
-| CoffeeScript                       | ![](Untitled-2.png)         | Google Maps                    |               |
-| SQL                                | ![](Untitled-2.png)         |                                |               |
-| HTML5, CSS3                        | ![](Untitled-2.png)         |                                |               |
+| Languages & Practises              | Improving                   | <!-- | Frameworks & APIs              | Tools         | -->
+| :--------------------------------- | :-------------------------- | <!-- | :----------------------------- | :------------ | -->
+| Ruby                               | ![](Untitled-2.png)         | <!-- | Sinatra                        | DVCS, Git     | -->
+| Object Oriented Programming        | ![](Untitled-2.png)         | <!-- | Rails 4                        | Heroku        | -->
+| TDD, BDD                           | ![](Untitled-2.png)         | <!-- | Twilio                         | PostgresSQL   | -->
+| RSpec, Cucumber, Capybara          | ![](Untitled-2.png)         | <!-- | Stripe                         | Compass       | -->
+| Familiar with JavaScript, Jasmine  | ![](Untitled-2.png)         | <!-- | Mailgun                        |               | -->
+| CoffeeScript                       | ![](Untitled-2.png)         | <!-- | Google Maps                    |               | -->
+| SQL                                | ![](Untitled-2.png)         |
+| HTML5, CSS3, SASS                  | ![](Untitled-2.png)         |
+
+
+| Frameworks & APIs              | Tools         |
+| :----------------------------- | :------------ |
+| Sinatra                        | DVCS, Git     |
+| Rails 4                        | Heroku        |
+| Twilio                         | PostgresSQL   |
+| Stripe                         | Compass       |
+| Mailgun                        |               |
+| Google Maps                    |               |
 
 
 
