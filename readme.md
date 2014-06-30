@@ -1,42 +1,29 @@
 #Apostolis Taxidaridis
 
-I'm a junior web developer in London. I love both design and development and I believe that beautiful code is hidden under beautiful interfaces.
+I'm junior web developer in London. My love both for design and development leaves me to believe that beautiful code can be hidden under beautiful interfaces. About one year ago and after playing around with various online tutorials and books, building simple WordPress websites, I decided to get serious about web development, so I attended Makers Academy, a 12-week intensive course in London. Currently, I'm seeking a position that will utilize my skills and allow me the opportunity to gain additional skills and experience.
 
 Recent projects
 -------------
 
-| [Angry Kitty] | [Unstagram] | [Chitter] |
+| [Angry Kitty] | [Unstagram] | [Sudoku] |
 |:--------------- |:-------- |:--------- |
-| Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting with tags and geolocation | Basic Sinatra Twitter clone, frontend developed without using Bootstrap. |
-
-
-###About me
-
-I'm 25-year-old guy, enthusiastic about the web and how computers work in general.
-
+| Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.| Ruby on Rails Instagram clone that is focussed on posting with tags and geolocation | Basic Sudoku solver, built in Sinatra. |
 
 ### Skills
 ----------
 #### Coding
 
-  - Ruby
-  - Sinatra
-  - Ruby on Rails
-  - Object­ oriented programming
-  - Test­ driven development
-  - Pair programming
-  - ActiveRecord, Datamapper
-  - PostgreSQL
-  - TDD with Cucumber, Rspec and Capybara
-  - Git
-  - Heroku
-  - JavaScript, jQuery, AJAX, Websockets
-  - HTML5, CSS3
-  - Twitter Bootstrap
-  - Compass, SASS
-  - Familiar with CoffeeScript, HAML, Jasmine
-  - APIs: Twilio, Stripe, Mailgun, Google Maps
-  - Agile methodologies
+
+  | Languages & Practises              | Frameworks & APIs           | Tools         |
+  | :--------------------------------- | :------------               | :------------ |
+  | Ruby                               | Sinatra                     | DVCS, Git     |
+  | Object Oriented Programming        | Rails                       | Heroku        |
+  | TDD, BDD                           | Twilio                      | PostgresSQL   |
+  | RSpec, Cucumber, Capybara          | Stripe                      | SASS, Compass |
+  | Familiar with JavaScript, Jasmine  | Twitter Bootstrap           |               |
+  | CoffeeScript                       | Mailgun                     |               |
+  | SQL                                | Google Maps                 |               |
+  | HTML5, CSS3                        | ![alt text][Untitled-2.png] |               |
 
 #### Designing
 
@@ -105,7 +92,7 @@ Contact me
 - [Github]
 
   [Unstagram]:https://github.com/apostoiis/unstagram
-  [Chitter]:https://github.com/apostoiis/Chitter
+  [Sudoku]:https://github.com/apostoiis/Sudoku-Web-Version
   [Angry Kitty]:https://github.com/willhall88/Angry-Kitty
 
   [Makers Academy]:http://www.makersacademy.com
