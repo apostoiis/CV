@@ -28,24 +28,24 @@ Recent projects
 
 | Languages & Practises              | Improving                   |
 | :--------------------------------- | :-------------------------- |
-| Ruby                               | ![](Untitled-2.png)         |
-| Object Oriented Programming        | ![](Untitled-2.png)         |
-| TDD, BDD                           | ![](Untitled-2.png)         |
-| RSpec, Cucumber, Capybara          | ![](Untitled-2.png)         |
-| Familiar with JavaScript, Jasmine  | ![](Untitled-2.png)         |
-| CoffeeScript                       | ![](Untitled-2.png)         |
-| SQL                                | ![](Untitled-2.png)         |
-| HTML5, CSS3, SASS                  | ![](Untitled-2.png)         |
+| Ruby                               | ![](ruby.png)               |
+| RSpec, Cucumber, Capybara          | ![](ruby.png)               |
+| JavaScript, Jasmine, jQuery        | ![](js.png)                 |
+| HTML5, CSS3, SASS                  | ![](html.png)               |
+| SQL                                | ![](sql.png)                |
 
 
 | Frameworks & APIs                  | Tools         | Design Tools    |
 | :--------------------------------- | :------------ | :-----------    |
-| Sinatra                            | DVCS, Git     | Adode Photoshop |
+| Sinatra                            | Git           | Adode Photoshop |
 | Rails 4                            | Heroku        | Adobe Fireworks |
-| Twilio                             | PostgresSQL   |                 |
-| Stripe                             | Compass       |                 |
+| jQuery                             | PostgresSQL   |                 |
+| Twilio                             | Compass       |                 |
+| Stripe                             |               |                 |
 | Mailgun                            |               |                 |
 | Google Maps                        |               |                 |
+
+
 
 Education
 ----------
