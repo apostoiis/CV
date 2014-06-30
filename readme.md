@@ -1,6 +1,6 @@
 #Apostolis Taxidaridis
 
-I'm junior web developer in London. My love both for design and development leaves me to believe that beautiful code can be hidden under beautiful interfaces. About one year ago and after playing around with various online tutorials and books, building simple WordPress websites, I decided to get serious about web development, so I attended Makers Academy, a 12-week intensive course in London. Currently, I'm seeking a position that will utilize my skills and allow me the opportunity to gain additional skills and experience.
+I'm junior web developer in London. My love both for design and development leaves me to believe that beautiful code can be hidden under beautiful interfaces. About one year ago after playing around with various online tutorials and building simple websites, I decided to get serious about web development, so I attended Makers Academy, a 12-week intensive course in London. Currently, I'm seeking a position that will utilize my skills and allow me the opportunity to gain additional skills and experience.
 
 Recent projects
 -------------
