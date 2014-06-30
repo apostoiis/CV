@@ -11,19 +11,6 @@ Recent projects
 
 ### Skills
 ----------
-#### Coding
-<!--
-| Languages & Practises              | Frameworks & APIs           | Tools         |
-| :--------------------------------- | :-------------------------- | :------------ |
-| Ruby                               | Sinatra                     | DVCS, Git     |
-| Object Oriented Programming        | Rails                       | Heroku        |
-| TDD, BDD                           | Twilio                      | PostgresSQL   |
-| RSpec, Cucumber, Capybara          | Stripe                      | SASS, Compass |
-| Familiar with JavaScript, Jasmine  | Twitter Bootstrap           |               |
-| CoffeeScript                       | Mailgun                     |               |
-| SQL                                | Google Maps                 |               |
-| HTML5, CSS3                        | ![](Untitled-2.png)         |               |
- -->
 
 
 | Languages & Practises              | Improving                   |
