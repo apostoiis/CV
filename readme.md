@@ -15,7 +15,7 @@ Recent projects
 
 
   | Languages & Practises              | Frameworks & APIs           | Tools         |
-  | :--------------------------------- | :------------               | :------------ |
+  | :--------------------------------- | :-------------------------- | :------------ |
   | Ruby                               | Sinatra                     | DVCS, Git     |
   | Object Oriented Programming        | Rails                       | Heroku        |
   | TDD, BDD                           | Twilio                      | PostgresSQL   |
@@ -24,6 +24,8 @@ Recent projects
   | CoffeeScript                       | Mailgun                     |               |
   | SQL                                | Google Maps                 |               |
   | HTML5, CSS3                        | ![alt text][Untitled-2.png] |               |
+
+
 
 #### Designing
 
