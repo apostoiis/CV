@@ -75,16 +75,29 @@ Experience
 
 ### Freelance Web Designer (2010 - 2012)
 
-Some of my latest works
+####Latest works
 
-  - [Henri Le Worm]
-  - [thefriend.org]
-  - [jointlyapp.com]
-  - [cinemajam.com]
+  - [Henri Le Worm]  - Custom WP theme for the promotion of the best selling HLW apps
+  - [thefriend.org]  - Custom EE theme
+  - [jointlyapp.com] - Twitter Bootstrap
+  - [cinemajam.com]  - Twitter Bootstrap
 
 ### Junior Developer in Milo Creative (2012 - 2014)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam in necessitatibus laborum omnis similique sint assumenda explicabo voluptatem, accusantium mollitia quia ratione quod officia doloribus asperiores, hic corporis, quis nobis! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas eos officia officiis illum dolore dolorum rem, dolores magni nesciunt, nostrum cupiditate ratione, non pariatur esse cumque. Esse quos, consectetur a?
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam in necessitatibus laborum omnis similique sint assumenda explicabo voluptatem, accusantium mollitia quia ratione quod officia doloribus asperiores, hic corporis, quis nobis! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas eos officia officiis illum dolore dolorum rem, dolores magni nesciunt, nostrum cupiditate ratione, non pariatur esse cumque. Esse quos, consectetur a? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam ullam in iusto est necessitatibus quidem, soluta, explicabo, animi vitae quis nisi et repellat, sint maxime consequuntur? Quos dolorem nam totam?
+
+
+| Interests & Hobbies   | Contact me               |
+| :-------------------- | :----------------------- |
+| Code Katas            | 07564607031              |
+| Meetups               | [appostoliis@gmail.com]  |
+| UX Design             | [Twitter]                |
+| Running               | [LinkedIn]               |
+| Movies                | [Github]                 |
+| Djing                 |                          |
+| Football, tennis      |                          |
+
+
 
 Interests & Hobbies
 ---------
@@ -125,3 +138,4 @@ Contact me
 [Henri Le Worm]:http://www.henrileworm.com
 [jointlyapp.com]:https://www.jointlyapp.com/
 [cinemajam.com]:http://www.cinemajam.com
+[thefriend.org]:http://www.thefriend.org
