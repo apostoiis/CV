@@ -21,6 +21,7 @@ Recent projects
 | HTML5, CSS3, SASS                  | ![](html.png)               |
 | SQL                                | ![](sql.png)                |
 
+Familiar with Objective-C, Coffescript, HAML.
 
 | Frameworks & APIs                  | Tools         | Design Tools    |
 | :--------------------------------- | :------------ | :-----------    |
@@ -32,7 +33,7 @@ Recent projects
 | Mailgun                            |               |                 |
 | Google Maps                        |               |                 |
 
-
+Familiar with the [Cocos-2D] framework.
 
 Education
 ----------
@@ -42,7 +43,8 @@ Education
 **Programming Bootcamp: March&mdash;June 2014**
 
   - Highly selective 12 week full-time course
-  - Focussed on Pair Programming, Test Driven Development and Ruby
+  - Full-stack web development
+  - Focus on Agile practices, especially TDD and pair programming
   - Final project: [Angry Kitty] - Thorougly test-driven Ruby on Rails app developed in two weeks. It helps people to easily organize the financial side of group events without having to worry about collecting money.
 
 ### [Automation Engineering], Alexander Technological Institute of Thessaloniki
@@ -64,14 +66,18 @@ Experience
 
 ####Latest works
 
-  - [Henri Le Worm]  - Custom WP theme for the promotion of the best selling HLW apps
-  - [thefriend.org]  - Custom EE theme
+  - [Henri Le Worm]  - WordPress theme for the promotion of the best selling HLW apps
+  - [thefriend.org]  - Expression Engine theme
   - [jointlyapp.com] - Twitter Bootstrap
   - [cinemajam.com]  - Twitter Bootstrap
 
-### Junior Developer in Milo Creative (2012 - 2014)
+### Junior Developer at Milo Creative (2012 - 2014)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam in necessitatibus laborum omnis similique sint assumenda explicabo voluptatem, accusantium mollitia quia ratione quod officia doloribus asperiores, hic corporis, quis nobis! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas eos officia officiis illum dolore dolorum rem, dolores magni nesciunt, nostrum cupiditate ratione, non pariatur esse cumque. Esse quos, consectetur a? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam ullam in iusto est necessitatibus quidem, soluta, explicabo, animi vitae quis nisi et repellat, sint maxime consequuntur? Quos dolorem nam totam?
+I started my 6-month internship at [Milo Creative] as I was in last semester in my Uni, which requires 6 months placement as part of the industrial training. After that, I got an offer as a junior developer/designer. My role expanded from websites to cross platform mobile apps and games. Working close with designers, animators, senior developers and clients I have gained experience in project management, working with milestones and
+
+### Coach assistant at CodebarHQ (2014 - present)
+
+When I am available, I help other people at [CodebarHQ] with everything that has to do with web development.
 
 ======================================================
 
@@ -81,10 +87,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam in necessitatibu
 | :-------------------- | :----------------------- |
 | Code Katas            | 07564607031, +306974660574    |
 | Code Readability      | [appostoliis@gmail.com]  |
-| Meetups               | [Twitter]                |
 | UX Design             | [LinkedIn]               |
+| Meetups               | [Twitter]                |
+| Movies                | [Personal Blog]          |
 | Running               | [Github]                 |
-| Movies                |                          |
 | Djing                 |                          |
 | Football, tennis      |                          |
 
@@ -119,12 +125,15 @@ Contact me
 
 [Makers Academy]:http://www.makersacademy.com
 
+[CodebarHQ]:http://www.codebar.io
+[Milo Creative]:http://www.milocreative.com
+[Cocos-2D]:http://www.cocos2d-swift.org/
 [Automation Engineering]:https://www.autom.teithe.gr/en/index.php
 [appostoliis@gmail.com]: mailto:appostoliis@gmail.com
 [GitHub]:https://github.com/apostoiis
 [LinkedIn]:http://uk.linkedin.com/in/apostoiis
 [Twitter]:http://twitter.com/apostoiis
-[Blog]:http://medium.com/@apostoiis
+[Personal Blog]:http://medium.com/@apostoiis
 [Repositories on Github]:https://github.com/apostoiis?tab=repositories
 [Henri Le Worm]:http://www.henrileworm.com
 [jointlyapp.com]:https://www.jointlyapp.com/
