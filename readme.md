@@ -1,6 +1,6 @@
 #Apostolis Taxidaridis
 
-I'm junior web developer in London. My love both for design and development leaves me to believe that beautiful code can be hidden under beautiful interfaces. After playing around with various online tutorials for half a year, I decided to get serious about web development. I attended Makers Academy, a 12-week intensive course in London. Currently, I'm seeking a position that will utilize my skills and allow me the opportunity to gain additional skills and experience.
+I'm junior web developer in London. My love both for design and development leaves me to believe that beautiful code can be hidden under beautiful interfaces. After playing around with various online tutorials for a half a year, I decided to get serious about web development. I attended Makers Academy, a 12-week web development focussed course in London. Currently, I'm seeking a position that will utilize my skills and allow me the opportunity to gain additional skills and experience.
 
 Recent projects
 -------------
@@ -73,7 +73,7 @@ Experience
 
 ### Junior Developer at Milo Creative (2012 - 2014)
 
-I started my 6-month internship at [Milo Creative] as I was in last semester in my Uni, which requires 6 months placement as part of the industrial training. After that, I got an offer as a junior developer/designer. My role expanded from websites to cross platform mobile apps and games. Working close with designers, animators, senior developers and clients I have gained experience in project management, working with milestones and
+I started my 6-month internship at [Milo Creative] during my last semester in my Uni. After that, I continued working as a junior developer/designer. My role expanded from websites to cross platform mobile apps and games. Working close with designers, animators, developers and clients I have gained a lot of experience in project management, working good with milestones and deadlines.
 
 ### Coach assistant at CodebarHQ (2014 - present)
 
