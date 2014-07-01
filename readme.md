@@ -33,7 +33,7 @@ Familiar with Objective-C, Coffescript, HAML.
 | Mailgun                            |               |                 |
 | Google Maps                        |               |                 |
 
-Familiar with the [Cocos-2D] framework.
+Familiar with Xcode, Cocoa Touch and the [Cocos-2D] framework.
 
 Education
 ----------
