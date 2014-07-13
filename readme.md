@@ -92,7 +92,7 @@ When I am available, I help other people at [CodebarHQ] with everything that has
 | Movies                | [Personal Blog]          |
 | Running               | [Github]                 |
 | Djing                 | [StackOverflow]          |
-| Football, tennis      |                          |
+| Football, tennis      | [Vimeo]                  |
 
 
 <!--
@@ -140,3 +140,4 @@ Contact me
 [cinemajam.com]:http://www.cinemajam.com
 [thefriend.org]:http://www.thefriend.org
 [StackOverflow]:http://stackoverflow.com/users/1803776/appostolis
+[Vimeo]:https://vimeo.com/home/myvideos
