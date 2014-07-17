@@ -85,7 +85,7 @@ When I am available, I help other people at [CodebarHQ] with everything that has
 
 | Interests & Hobbies   | Contact me               |
 | :-------------------- | :----------------------- |
-| Code Katas            | 07564607031, +306974660574    |
+| Code Katas            | 07564607031, +306947993152    |
 | Code Readability      | [appostoliis@gmail.com]  |
 | UX Design             | [LinkedIn]               |
 | Meetups               | [Twitter]                |
