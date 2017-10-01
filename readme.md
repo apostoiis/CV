@@ -1,4 +1,4 @@
-#Apostolis Taxidaridis
+# Apostolis Taxidaridis
 
 I'm junior web developer in London. My love both for design and development leaves me to believe that beautiful code can be hidden under beautiful interfaces. After playing around with various online tutorials for a half a year, I decided to get serious about web development. I attended Makers Academy, a 12-week web development focussed course in London. Currently, I'm seeking a position that will utilize my skills and allow me the opportunity to gain additional skills and experience.
 
